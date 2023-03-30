@@ -9,5 +9,7 @@
 	{
 		"key": "Search for data deeplink",
 		"value": "https://www.linkedin.com/learning/search?keywords=data&u=104"
-	}
+	},
+ { "key": "Custom content deeplink",
+  "value": "https://www.linkedin.com/learning/content/271637"
 ]
