@@ -1,14 +1,10 @@
 [
     {
-      "key": "Google",
-      "value": "https://www.google.com"
+      "key": "LinkedIn Learning course with forced account",
+      "value": "https://www.linkedin.com/learning-login/share?account=104&forceAccount=true&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fvideos%2F51445829%3Ftrk%3Dshare_ent_url%26shareId%3D0ynMUiEgSzCCPjlk99t9zg%253D%253D"
     },
     {
-      "key": "Microsoft",
-      "value": "https://www.microsoft.com"
-    },
-    {
-      "key": "Facebook",
-      "value": "https://www.facebook.com"
+      "key": "LinkedIn Learning general content",
+      "value": "https://www.linkedin.com/learning-login/share?account=104&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ffinance-foundations-2018%3Ftrk%3Dshare_ent_url%26shareId%3D3bQGgZjSQLS9R0Ho4t99JA%253D%253D"
     }
   ]
