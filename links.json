@@ -15,5 +15,8 @@
  },
  { "key" : "Force account true without an accountId",
   "value" : "https://www.linkedin.com/learning-login/share?forceAccount=true&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ffinance-foundations-2018%3Ftrk%3Dshare_ent_url%26shareId%3D3bQGgZjSQLS9R0Ho4t99JA%253D%253D"
+ },
+  { "key" : "Force account true, 104, admin recommend email",
+  "value" : "https://www.linkedin.com/learning/content/596140?u=104&forceAccount=true&auth=true&trk=admin-recommend-email"
  }
 ]
