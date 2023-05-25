@@ -23,7 +23,44 @@
 		"value": "https://www.linkedin.com/learning/content/596140?account=104&forceAccount=true&auth=true&trk=admin-recommend-email"
 	},
 	{
-		"key": "My Learning - In Progress",
+		"key": "Me",
+
+		"value": "https://www.linkedin.com/learning/me"
+	},
+	{
+		"key": "Me - My Goals",
+		"value": "https://www.linkedin.com/learning/me/my-goals"
+	},
+	{
+		"key": "Me - My Library",
+		"value": "https://www.linkedin.com/learning/me/my-library"
+	},
+	{
+		"key": "Me - My Library - Skills",
+		"value": "https://www.linkedin.com/learning/me/my-library/skills"
+	},
+	{
+		"key": "Me - My Library - In Progress",
 		"value": "https://www.linkedin.com/learning/me/my-library/in-progress"
+	},
+	{
+		"key": "Me - My Library - Assigned",
+		"value": "https://www.linkedin.com/learning/me/my-library/assigned"
+	},
+	{
+		"key": "Me - My Library - Recommended",
+		"value": "https://www.linkedin.com/learning/me/my-library/recommended"
+	},
+	{
+		"key": "Me - My Library - Saved",
+		"value": "https://www.linkedin.com/learning/me/my-library/saved"
+	},
+	{
+		"key": "Me - My Library - Collections",
+		"value": "https://www.linkedin.com/learning/me/my-library/collections"
+	},
+	{
+		"key": "Me - My Library - Completed",
+		"value": "https://www.linkedin.com/learning/me/my-library/completed"
 	}
 ]
