@@ -24,8 +24,11 @@
 	},
 	{
 		"key": "Me",
-
 		"value": "https://www.linkedin.com/learning/me"
+	},
+	{
+		"key": "Me - In Progress (Legacy)",
+		"value": "https://www.linkedin.com/learning/me/in-progress"
 	},
 	{
 		"key": "Me - My Goals",
@@ -37,7 +40,7 @@
 	},
 	{
 		"key": "Me - My Library - Skills",
-		"value": "https://www.linkedin.com/learning/me/my-library/skills"
+		"value": "https://www.linkedin.com/learning/me/skills"
 	},
 	{
 		"key": "Me - My Library - In Progress",
