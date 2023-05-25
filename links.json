@@ -65,5 +65,49 @@
 	{
 		"key": "Me - My Library - Completed",
 		"value": "https://www.linkedin.com/learning/me/my-library/completed"
+	},
+	{
+		"key": "Comms - Me",
+		"value": "https://www.linkedin.com/comm/learning/me"
+	},
+	{
+		"key": "Comms - Me - In Progress (Legacy)",
+		"value": "https://www.linkedin.com/comm/learning/me/in-progress"
+	},
+	{
+		"key": "Comms - Me - Skills",
+		"value": "https://www.linkedin.com/comm/learning/me/skills"
+	},
+	{
+		"key": "Comms - Me - My Goals",
+		"value": "https://www.linkedin.com/comm/learning/me/my-goals"
+	},
+	{
+		"key": "Comms - Me - My Library",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library"
+	},
+	{
+		"key": "Comms - Me - My Library - In Progress",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/in-progress"
+	},
+	{
+		"key": "Comms - Me - My Library - Assigned",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/assigned"
+	},
+	{
+		"key": "Comms - Me - My Library - Recommended",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/recommended"
+	},
+	{
+		"key": "Comms - Me - My Library - Saved",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/saved"
+	},
+	{
+		"key": "Comms - Me - My Library - Collections",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/collections"
+	},
+	{
+		"key": "Comms - Me - My Library - Completed",
+		"value": "https://www.linkedin.com/comm/learning/me/my-library/completed"
 	}
 ]
