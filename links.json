@@ -26,6 +26,10 @@
 		"key": "Me",
 		"value": "https://www.linkedin.com/learning/me"
 	},
+ {
+	 "key": "Me with setup time goal query param",
+	 "value": "https://www.linkedin.com/learning/me?setupTimeGoal=true"
+ },
 	{
 		"key": "Me - In Progress (Legacy)",
 		"value": "https://www.linkedin.com/learning/me/in-progress"
