@@ -121,5 +121,7 @@
 	{
 		"key": "Comms - Me - My Library - Completed",
 		"value": "https://www.linkedin.com/comm/learning/me/my-library/completed"
-	}
+	},
+ {"key": "Voyager, Course CYMBII",
+  "value" : "https://www.linkedin.com/voyager/api/feed/updatesV2?q=backendUrnOrNss&urnOrNss=urn%3Ali%3AlyndaCourse%3A4362152&likesCount=10&commentsCount=10&moduleKey=feed-item%3Aphone"}
 ]
