@@ -76,7 +76,7 @@
  },
 	 {
 	 "key": "Me - My Library - Downloads",
-	 "value" "https://www.linkedin.com/learning/me/my-library/downloaded"
+	 "value": "https://www.linkedin.com/learning/me/my-library/downloaded"
 	 },
 	{
 		"key": "Comms - Me",
@@ -121,5 +121,5 @@
 	{
 		"key": "Comms - Me - My Library - Completed",
 		"value": "https://www.linkedin.com/comm/learning/me/my-library/completed"
-	},
+	}
 ]
